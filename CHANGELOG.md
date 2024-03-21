@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.9](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/v0.0.8...v0.0.9) (2024-03-21)
+
+
+### Bug Fixes
+
+* **api:** fixes import issue for api packages. ([2b2f489](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/2b2f489e0a9eb2496e3ca5fbfa16143ffd6b4ed5))
+* **cache:** fixes import issue for cache packages. ([006eaab](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/006eaab9c6ea45ca045ec77139404aceb38024c7))
+* **metrics:** fixes import issue for metrics packages. ([2af011b](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/2af011b4fba7970b1a170d7601cafd30fc23810e))
+
 ## [0.0.8](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/v0.0.7...v0.0.8) (2024-03-21)
 
 
