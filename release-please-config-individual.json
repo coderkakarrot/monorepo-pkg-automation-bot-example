@@ -6,7 +6,10 @@
   "tag-separator": "/",
   "packages": {
     "cache": {
-      "component": "cache"
+      "component": "cache",
+      "extra-files": [
+        "VERSION"
+      ]
     },
     "metrics": {
       "component": "metrics"
