@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.6](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/cache/v0.0.5...cache/v0.0.6) (2024-03-21)
+
+
+### Bug Fixes
+
+* **cache:** Adds fix 3 ([8f6ff74](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/8f6ff74373bfed37e83176747d6cd9c18cb80baa))
+
 ## [0.0.5](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/cache/v0.0.4...cache/v0.0.5) (2024-03-21)
 
 
