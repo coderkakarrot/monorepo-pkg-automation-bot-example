@@ -8,8 +8,9 @@
     "cache": {
       "component": "cache",
       "extra-files": [
-        "VERSION"
-      ]
+       "VERSION"
+      ],
+      "version-file": "VERSION"
     },
     "metrics": {
       "component": "metrics"
