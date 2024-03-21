@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/v0.0.3...v0.0.4) (2024-03-21)
+
+
+### Bug Fixes
+
+* **api:** version 0.0.4 ([df24a4c](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/df24a4c5b6619a5cb08957d47c4abdea4b65f7ab))
+
 ## [0.0.3](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/v0.0.2...v0.0.3) (2024-03-21)
 
 
