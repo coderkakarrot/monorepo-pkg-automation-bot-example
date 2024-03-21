@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/api/v0.0.4...api/v0.0.5) (2024-03-21)
+
+
+### Bug Fixes
+
+* **api:** fixes import issue for api packages. ([2b2f489](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/2b2f489e0a9eb2496e3ca5fbfa16143ffd6b4ed5))
+
 ## [0.0.4](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/api/v0.0.3...api/v0.0.4) (2024-03-21)
 
 
