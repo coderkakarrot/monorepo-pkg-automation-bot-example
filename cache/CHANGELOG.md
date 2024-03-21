@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.7](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/cache/v0.0.6...cache/v0.0.7) (2024-03-21)
+
+
+### Bug Fixes
+
+* **cache:** fixes import issue for cache packages. ([006eaab](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/006eaab9c6ea45ca045ec77139404aceb38024c7))
+
 ## [0.0.6](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/cache/v0.0.5...cache/v0.0.6) (2024-03-21)
 
 
