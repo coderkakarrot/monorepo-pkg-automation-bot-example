@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.10](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/v0.0.9...v0.0.10) (2024-03-21)
+
+
+### Bug Fixes
+
+* **cache:** Adds hellow message ([239705b](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/commit/239705b989008c81b0f60665ecc5c31085675056))
+
 ## [0.0.9](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/v0.0.8...v0.0.9) (2024-03-21)
 
 
